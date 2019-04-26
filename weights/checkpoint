@@ -1,0 +1,6 @@
+model_checkpoint_path: "epoch9.weights"
+all_model_checkpoint_paths: "epoch5.weights"
+all_model_checkpoint_paths: "epoch6.weights"
+all_model_checkpoint_paths: "epoch7.weights"
+all_model_checkpoint_paths: "epoch8.weights"
+all_model_checkpoint_paths: "epoch9.weights"
